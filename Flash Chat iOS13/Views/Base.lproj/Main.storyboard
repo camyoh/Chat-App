@@ -219,7 +219,7 @@
                                             <color key="titleColor" name="BrandLightBlue"/>
                                         </state>
                                         <connections>
-                                            <action selector="loginPressed:" destination="5v2-hE-4Ub" eventType="touchUpInside" id="Wlk-ga-czK"/>
+                                            <action selector="loginPresionado:" destination="5v2-hE-4Ub" eventType="touchUpInside" id="xzh-Ae-DOu"/>
                                         </connections>
                                     </button>
                                 </subviews>
