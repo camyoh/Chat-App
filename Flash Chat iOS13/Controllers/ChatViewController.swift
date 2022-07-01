@@ -11,14 +11,14 @@ import UIKit
 class ChatViewController: UIViewController {
 
     @IBOutlet weak var tableView: UITableView!
-    @IBOutlet weak var messageTextfield: UITextField!
+    @IBOutlet weak var mensajeTextfield: UITextField!
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
     }
     
-    @IBAction func sendPressed(_ sender: UIButton) {
+    @IBAction func enviarPresionado(_ sender: UIButton) {
     }
     
 
